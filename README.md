@@ -48,6 +48,16 @@ matlab RMBoost.m
 ```
 ## Support and Author
 
+Santiago Mazuelas
+
+smazuelas@bcamath.org
+
+Verónica Álvarez
+
+vealvar@mit.edu
+
+[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://github.com/VeronicaAlvarez)
+
 ## License 
 
 RMBoost carries a MIT license.
