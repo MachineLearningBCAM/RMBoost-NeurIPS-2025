@@ -65,3 +65,13 @@ RMBoost carries a MIT license.
 ## Citation
 
 If you find useful the code in your research, please include explicit mention of our work in your publication with the following corresponding entry in your bibliography:
+
+@inproceedings{MazAlv:25,
+  title      ={Minimax classification with 0-1 loss and performance guarantees},
+  author     ={Mazuelas, Santiago and {\'A}lvarez, Ver{\'o}nica},
+  booktitle  ={{A}dvances in {N}eural {I}nformation {P}rocessing {S}ystems},
+  volume     ={33},
+  pages      ={302--312},
+  year       ={2020},
+  month      ={Dec.}
+}
